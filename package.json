@@ -1,6 +1,6 @@
 {
   "name": "litellmjs",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "JavaScript implementation of LiteLLM.",
   "main": "src/index.ts",
   "scripts": {
